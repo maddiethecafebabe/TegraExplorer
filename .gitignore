@@ -8,3 +8,5 @@ loader/payload_00.h
 loader/payload_01.h
 
 *.exe
+tools/bin2c/bin2c
+tools/lz/lz77
